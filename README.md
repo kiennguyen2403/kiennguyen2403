@@ -10,7 +10,9 @@ I'm a student based in Melbourne, and I'm pursuing my studies in Computer Scienc
 
 Here are some of the technologies and tools I love to work with:
 
-- **Programming Languages**: <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+- **Programming Languages**:
+
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white" alt="Kotlin">
