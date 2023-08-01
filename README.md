@@ -10,32 +10,30 @@ I'm a student based in Melbourne, and I'm pursuing my studies in Computer Scienc
 
 Here are some of the technologies and tools I love to work with:
 
-- **Programming Languages**:
-- <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+- **Programming Languages**: <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python">
-</p>
+
 - **Web Development**: 
-<p align="center">
+
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?logo=spring&logoColor=white" alt="Spring MVC">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="ExpressJS">
   <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?logo=.net&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" alt="Flask">
-</p>
+
 - **DevOps**: 
-<p align="center">
+
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
+
 - **Version Control**:
-<p align="center">
+
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git">
-</p>
+
 
 
 ## Contact Me
