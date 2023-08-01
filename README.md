@@ -20,8 +20,8 @@ Here are some of the technologies and tools I love to work with:
 
 I'm always open to networking and discussing exciting opportunities. You can reach me via:
 
-- Email: your@email.com
-- LinkedIn: [LinkedIn Profile](your-linkedin-profile)
+- Email: kientdn2403@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kiennguyen2403/
 
 ## Let's Connect
 
