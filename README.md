@@ -1,67 +1,93 @@
 # Welcome to My GitHub Profile!
 
-Hello there! 👋 I'm Nguyen Trung Kien, and this is my GitHub playground where I explore, create, and contribute to exciting projects. I'm currently a student at Swinburne University of Technology, and I'm passionate about software development and web technologies.
+Hello there! 👋 I'm **Nguyen Trung Kien**, a software developer based in Melbourne, Australia. I'm currently an **Associate Software Engineer at Moveware** and pursuing my **Master of Artificial Intelligence at Monash University**. I'm passionate about real-time systems, cloud architecture, and building high-efficiency solutions.
 
-## About Me
+---
 
-I'm a student based in Melbourne, and I'm pursuing my studies in Computer Science. I have a strong background in programming and enjoy working with a variety of languages, including JavaScript, Java, C#, Kotlin, and Python. My interests lie in web and mobile development, and I love building applications using technologies like React, Flutter, Spring MVC, ExpressJS, .NET, and Flask.
+## 🧑‍💻 About Me
 
-## Technologies and Tools
+- 🏢 Associate Software Engineer @ **Moveware** — building logistics platforms used by 200+ global clients
+- 🎓 **Master of AI** @ Monash University (GPA: 4.0/4.0)
+- 🎓 **Bachelor of Computer Science** @ Swinburne University of Technology (GPA: 3.92/4.0)
+- 📍 Based in Hawthorn East, Melbourne, Australia
+- 🔭 Currently building **Kapsl** — a native GPU runtime for AI model inference in Rust
+- 🌱 Exploring async systems, concurrent workloads, and AI/ML at the infrastructure level
 
-Here are some of the technologies and tools I love to work with:
+---
 
-- **Programming Languages**:
+## 🛠️ Technologies and Tools
 
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python">
+**Programming Languages:**
 
-- **Web Development**: 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
 
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?logo=spring&logoColor=white" alt="Spring MVC">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="ExpressJS">
-  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" alt="Flask">
+**Web & Mobile Development:**
 
-- **DevOps**: 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?logo=supabase&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes">
+**Cloud & Infrastructure:**
 
-- **Version Control**:
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git">
+**Databases:**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white)
 
+**DevOps & Tools:**
 
-## Contact Me
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
-I'm always open to networking and discussing exciting opportunities. You can reach me via:
+---
 
-- Email: kientdn2403@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kiennguyen2403/
+## 🚀 Featured Projects
 
-## Let's Connect
+### [Kapsl](https://github.com/kiennguyen2403) — Native GPU Runtime for AI Model Inference *(Private, In Development)*
+> **Rust, Tokio, Iced**
 
-Let's collaborate and build something amazing together! Feel free to connect with me on GitHub, LinkedIn, or drop me an email. Looking forward to meeting fellow developers and making meaningful contributions to the tech world.
+A Rust-based inference runtime exploring async system programming and concurrent workload management. Features metrics and health tracking for long-running services. Working prototype with benchmarks in progress.
 
-Thank you for stopping by, and happy coding! 🚀
+---
 
-<!--
-**kiennguyen2403/kiennguyen2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Viter](https://github.com/kiennguyen2403) — Interview Platform with Video & Code Execution
+> **NextJS, Supabase, Docker, LangChain, Tork, Kong API Gateway**
 
-Here are some ideas to get you started:
+A real-time interview platform with WebStream.io-powered video/messaging and a Docker-based multi-language code execution engine with live output streaming via Tork and Kong Gateway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **First Prize** — Undergraduate Industry Program, iMove *(Dec 2023)*
+  - Built a real-time parking data visualization system for Melbourne
+
+- 🥉 **Third Prize** — City Contest of Science and Technology, Ho Chi Minh City *(Apr 2021)*
+  - Developed a navigation app for optimized urban pathfinding
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [kientdn2403@gmail.com](mailto:kientdn2403@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kiennguyen2403](https://www.linkedin.com/in/kiennguyen2403/)
+- 🐙 GitHub: [github.com/kiennguyen2403](https://github.com/kiennguyen2403)
+
+---
+
+Let's build something amazing together! Happy coding! 🚀
